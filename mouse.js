@@ -1,0 +1,2 @@
+funstion() mouse{
+}
